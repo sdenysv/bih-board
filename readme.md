@@ -34,7 +34,7 @@ export STRAVA_REDIRECT_URI=https://yourdomain.com/callback
 To deploy the BIH Board application, follow these steps:
 1. Fetch the latest version of the Docker Compose file:
    ```bash
-   curl -o docker-compose.yml https://raw.githubusercontent.com/skvortsovden/bih-board/main/docker-compose.yml
+   curl -o docker-compose.yml https://raw.githubusercontent.com/sdenysv/bih-board/main/docker-compose.yml
    ```
 2. Start the application using Docker Compose:
    ```bash
